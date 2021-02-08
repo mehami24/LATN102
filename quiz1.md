@@ -1,4 +1,4 @@
-**Needs revisions**
+**Full credit**
 
 Part 1: recognizing nouns
 Identify the gender, case and number, and gender of each noun. If there are multiple possible forms, list all options. Translate prepositional phrases.
@@ -17,7 +17,7 @@ if the form is singular, convert to plural; if the form is plural, convert to si
 
 1. petivisset      pluperfect, third person, active, indicative, singular. Plural: petivissent
 1. necauit         perfect, third person, active, indicative, singular. Plural: necauerunt
-1. necari          present, passive, infinitive  ❌
+1. necari          present, passive, infinitive 
 1. rogaretur       imperfect, third person, passive, subjunctive, singular. Plural: rogarentur
 1. coepit          perfect, third person, active, indicative, singular. Plural: coeperunt
 1. interfecisset   pluperfect, third person, active, subjunctive, singular. Plural: interfecissent
@@ -30,7 +30,7 @@ Translate (only) the italicized verb forms into Latin. E.g., if you were given �
 1. Centaurs are being killed by Hercules. (Use the present tense)     interficiuntur
 1. Centaurs were being killed by Hercules. (Use the imperfect tense)  interficiebantur
 1. Centaurs were killed by Hercules. (Use the perfect tense)          interfecti sunt
-1. When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.)  interficisset ❌
-1. At the moment when Deianira saw Hercules’ garment burst into flames, she realized the Centaur had lied to her.   vidit ❌
+1. When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.)  interfecisset 
+1. At the moment when Deianira saw Hercules’ garment burst into flames, she realized the Centaur had lied to her.   vidit
 1. Hercules led Deianira in marriage (i.e., he married her).         duxit
 1. Hercules repeatedly asked Eurytus for permission to marry Iole.   rogabat
