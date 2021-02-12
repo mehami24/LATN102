@@ -4,9 +4,7 @@ Philoctetes built a pyre for Hercules,
 
 Hercules hurled Lichas, 
 
->who had brought the poisoned garment, 
-
->>into the see.
+>who had brought the poisoned garment into the see.
 
 In Egypt, Hercules killed Busiris,
 
@@ -24,18 +22,13 @@ He killed Eurytion,
 
 Part B:
 
-**Hercules** in Aegypto Busiridem, 
+**Hercules** in Aegypto Busiridem, necavit
 
 >**qui** hospites interficiebat, 
 
->>necavit.
+Hercules **Licham** , in mare iecit
 
-Hercules **Licham** **qui** uestem attulerat
+> **qui** uestem attulerat
 
->in mare iecit.
-
-**Eurytum** **cuius** filiam
-
->eius in coniugium petiuit 
-
->>occidit.
+**Eurytum** , occidit
+> **cuius** filiam eius in coniugium petiuit 
