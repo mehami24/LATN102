@@ -4,31 +4,18 @@ A. ❌ *Please revise this section as we did in class.*
 
 
 Hercules cum in hospitium ad Dexamenum regem *uenisset*
-When Hercules went in hospitality to Dexamenus, the king,
 > eiusque filiam Deianiram *deuirginasset*,
-> he devirginized his daughter
 >> *volebat* 
->> and wished
 >>> eam uxorem *ducere*.
->>> to marry her.
 Cum Hercules *abesset*,
-When Hercules was away,
 > centaurus Eurytion *petit* Deianiram uxorem. 
-> the centaur, Eurytion, demanded that Deianira become his own wife
 Quia pater eius centaurum *timebat*,
-Since her father feared the centaur
 > *pollicitus est* 
-> he promised
 >> se *daturum*.
->> that he would give his daughter in marriage
 Tempore certo, *venit* centaurus cum fratribus ad nuptias.
-At the appointed time, the centaur went to the wedding with his brothers
 > Hercules *interuenit*
-> Hercules interrupted
 >> et centaurum *interfecit*, 
->> killed the centaur
 >>> Deianiram *abduxit*.
->>> and took Deianira away.
   
 B. Grammatical questions
 Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum. **Dexamenus**❌, Deximeni, m. Dexamenum is third person, singular, accusative.
