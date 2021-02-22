@@ -1,6 +1,6 @@
 **Needs revisions**
 
-A. ❌ *Please revise this section as we did in class.*
+A.
 
 
 Hercules cum in hospitium ad Dexamenum regem *uenisset*
