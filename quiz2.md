@@ -45,7 +45,7 @@ You are given a pair of simple English sentences (that is, a single independent 
 7. Prometheus’ heart was devoured by an eagle that Hercules shot dead with his arrows.
 8. Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites.
 9. Hercules, who Apollo refused to give an oracle, stole a tripod from the temple at Delphi.
-10. Hercules, who Juno drove threw into a fit of madness, killed his own wife Megara.
+10. Hercules, who Juno drove into a fit of madness, killed his own wife Megara.
 Latin relative clauses
 For each sentence in the previous section:
 
@@ -54,10 +54,10 @@ identify the antecedent of the pronoun, and its gender and number
 identify the case of the Latin pronoun, and explain why it is in that case
 
 1. Quo - antecedant: the brothers - masculine, plural - ablative case because indicates a relation and is preceded by 'with.'
-2. Quo - antecedant: Euytion - masculine, singular - ablative case because it indicates a relation and is proceded by 'to.'
+2. Cui - antecedant: Euytion - masculine, singular - dative case because it is the indirect object.
 3. Cuius - antecedant: Eurytion - masculine, singular - genitive case because it indicates possession (the brothers of Eurytion).
 4. Quem - antecedant: Nessus - masculine, singular - accusative case because it is the direct object.
-5. Quem - antecedant: vial of blood - masculine, singular - accusative case because it is the direct object.
+5. Quo - antecedant: vial of blood - masculine, singular - ablative case because it is the instrument being used.
 6. Qui - antecedant: Busiris - masculine, singular - nominative because it stands alone as the subject.
 7. Quam - antecedant: eagle - feminine, singular - accusative case because it is the direct object.
 8. Quem - antecedant: Lycus - masculine, singular - accusative case because it is the direct object.
