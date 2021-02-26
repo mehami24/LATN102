@@ -36,8 +36,8 @@ rogati essent , missi essent
 English relative clauses
 You are given a pair of simple English sentences (that is, a single independent clause) with a noun in common. Combine them into one complex sentence by keeping the first sentence as the independent clause, and making the second sentence a relative clause.
     
-1. The brothers, who Euytion came to the wedding with, were violent Centaurs.
-2. Dexamenus was afraid of Eurytion, who Deanira was promised in marriage to.
+1. The brothers, with whom Euytion came to the wedding, were violent Centaurs.
+2. Dexamenus was afraid of Eurytion, to whom Deanira was promised in marriage.
 3. Eurytion, whose brothers were centaurs, expected to marry Deianira.
 4. Nessus, who Hercules killed, tried to rape Deianira.
 5. Nessus gave Deianira a vial of blood, which Hercules was poisoned by.
