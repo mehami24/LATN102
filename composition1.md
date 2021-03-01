@@ -15,7 +15,7 @@ Your fourth sentence should say that Iole endured that her parents were killed.
 Your fifth statement should say that when he had killed all of them, he sent Iole to Deianira.
 
 1. Cum Hercules ad Oechaliam venisset, is rogavit Iolen uxorem ducere.
-2. Quia euis pater noluisset🤔, Hercules Oechaliam capit.
-3. Pollicitus est se eum❌ euis parentes interfecturus❌ esse.
-4. Iole passus❌ est euis❌ parentes interfectus❌ esse et euis❌ urbem petitus❌ esse.
-5. Post❌ Herculem interfecisset omnes ea❌, is Iolen ad Deianiram, euis❌ uxorem, misit. 
+2. Quia euis pater negavisset🤔, Hercules Oechaliam capit.
+3. Hercules pollicitus est se❌ euis parentes interfecturus❌ esse.
+4. Iole patiebatur❌ se❌ parentes interfectus❌ est et se❌ urbem petitus❌ est.
+5. Cum❌ Herculem interfecisset omnes❌, is Iolen ad Deianiram, se❌ uxorem, misit. 
