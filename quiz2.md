@@ -26,12 +26,13 @@ third plural pluperfect subjunctive passive - polliciti essent
     
 Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio
 but not amo, habeo, capio or duco
-   
-Rogantur (they are being asked❌), mittuntur (they are being sent❌)
+
+Passive: 
+Rogantur (they are being asked), mittuntur (they are being sent)
 rogentur , mittantur
-rogabantur (they were being asked❌), mittebantur (they were being sent)
+rogabantur (they were being asked), mittebantur (they were being sent)
 rogarentur , mitterentur
-rogati sunt (they were asked)❌, missi sunt (they were sent)❌
+rogati sunt (they were asked), missi sunt (they were sent)
 rogatus esse , missus esse
 rogati essent , missi essent
 
