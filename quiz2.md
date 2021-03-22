@@ -56,7 +56,7 @@ translate the relative pronoun into Latin
 identify the antecedent of the pronoun, and its gender and number
 identify the case of the Latin pronoun, and explain why it is in that case
 
-1. Quos❌ - antecedant: the brothers - masculine, plural - ablative case because indicates a relation and is preceded by 'with.'
+1. Quibus❌ - antecedant: the brothers - masculine, plural - ablative case because indicates a relation and is preceded by 'with.'
 2. Cui - antecedant: Euytion - masculine, singular - dative case because it is the indirect object.
 3. Cuius - antecedant: Eurytion - masculine, singular - genitive case because it indicates possession (the brothers of Eurytion).
 4. Quem - antecedant: Nessus - masculine, singular - accusative case because it is the direct object.
