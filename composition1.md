@@ -17,5 +17,5 @@ Your fifth statement should say that when he had killed all of them, he sent Iol
 1. Cum Hercules ad Oechaliam venisset, is rogavit Iolen uxorem ducere.
 2. Cum euis pater negaverat🤔, Hercules Oechaliam capit.
 3. Hercules pollicitus est se ❌ euis parentes interfecturum esse❌.
-4. Iole patiebatur❌ suos❌ parentes interfectos❌ esse et suam❌ urbem petitas esse❌.
+4. Iole patiebatur❌ suos❌ parentes interfectos❌ esse et suam❌ urbem capitam esse❌.
 5. Cum❌ Hercules interfecisset omnes❌, Iolen ad Deianiram, ❌ suam uxorem, misit. 
