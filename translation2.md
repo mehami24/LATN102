@@ -1,7 +1,7 @@
 **Needs revisions**
 
 A. Grammatical analysis
-Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
+Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks. 
 
 1. Deianira uxor Herculis *non poterat transire* flumen magnum
 
@@ -37,12 +37,11 @@ Identify the antecedent of cui, and its gender and number. Then explain what cas
 > the antecedent of cui is flumen magnum. It is neuter singular. It is in the dative because the river was given the name Evenus and dative is the givers/takers case.❌
 
 Identify the form of transire. Explain why you placed it in the clause you chose.
-> transire is in the present active infinitive. It is in the first clause because it is part of an indirect statement (paired with possum).❌
+> transire is in the present active infinitive. It is in the first clause because it is part of a continuing indirect statement (paired with possum).❌
 
 sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle 
 (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
 > feminine, accusative, singular, perfect, active. "sublātus, a, um, Part. of tollo; as P. a., v. tollo fin."
-
 
 Identify the form of sagittis. Why does Hyginus use this case?
 > Ablative plural feminine. Ablative because the arrows are the instrument he used.
