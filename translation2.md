@@ -37,7 +37,9 @@ Deianirae sanguinem suum *dedit*  ❌
 
 *dedit*
 
-et id philtrum *esse dixit*. ❌
+> et id philtrum *esse 
+
+*dixit*. ❌
 
 
 B. Grammatical questions
