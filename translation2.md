@@ -21,13 +21,21 @@ centaurum Nessum auxilium *rogavit*
 
 Nessum sagittis *confixit*.
 
-4. ille moriens 
+4. ille 
 
-> cum *sciret* sagittas Hydrae Lernaeae magnam vim *habere* ❌
+> moriens 
 
->> felle tinctas  ❌
+> cum *sciret* 
 
-Deianirae sanguinem suum exceptum *dedit*  ❌
+>> sagittas Hydrae Lernaeae magnam vim *habere* ❌
+
+>>> felle tinctas  ❌
+
+Deianirae sanguinem suum *dedit*  ❌
+
+> exceptum
+
+*dedit*
 
 et id philtrum *esse dixit*. ❌
 
@@ -37,7 +45,7 @@ Identify the antecedent of cui, and its gender and number. Then explain what cas
 > the antecedent of cui is flumen magnum. It is neuter singular. It is in the dative because the river was given the name Evenus and dative is the givers/takers case.❌
 
 Identify the form of transire. Explain why you placed it in the clause you chose.
-> transire is in the present active infinitive. It is in the first clause because it is part of a continuing indirect statement (paired with possum).❌
+> transire is in the present active infinitive. It is in the first clause because it is a complimentary infinitive and paired with possum.❌
 
 sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle 
 (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
@@ -50,7 +58,7 @@ Identify the form of moriens.
 > It is the present participle of morior. It is singular, present, active, masculine, nominative
 
 Identify felle. Why does Hyginus use this case?
-> felle is neuter ablative❌ plural passive perfect. It is ablative because it is giving more information about the direct object. 
+> felle is neuter ablative❌ singular. It is ablative because it is the instrument being used. 
 
 Identify the form of tinctas.
 > feminine plural accusative perfect passive 
