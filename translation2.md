@@ -1,4 +1,4 @@
-**Needs revisions**
+**Full credit**
 
 A. Grammatical analysis
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks. 
@@ -11,7 +11,7 @@ centaurum Nessum auxilium *rogavit*
 
 > qui filius Ixionis et Nubis *erat*
 
-2. Hic Deianiram *violare voluit*  ❌
+2. Hic Deianiram *violare voluit*  
 
 > sublatam in flumine ipso 
 
@@ -27,11 +27,11 @@ Nessum sagittis *confixit*.
 
 > cum *sciret* 
 
->> sagittas Hydrae Lernaeae magnam vim *habere* ❌
+>> sagittas Hydrae Lernaeae magnam vim *habere* 
 
->>> felle tinctas  ❌
+>>> felle tinctas  
 
-Deianirae sanguinem suum *dedit*  ❌
+Deianirae sanguinem suum *dedit*  
 
 > exceptum
 
@@ -39,15 +39,15 @@ Deianirae sanguinem suum *dedit*  ❌
 
 > et id philtrum *esse 
 
-*dixit*. ❌
+*dixit*. 
 
 
 B. Grammatical questions
 Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
-> the antecedent of cui is flumen magnum. It is neuter singular. It is in the dative because the river was given the name Evenus and dative is the givers/takers case.❌
+> the antecedent of cui is flumen magnum. It is neuter singular. It is in the dative because the river was given the name Evenus and dative is the givers/takers case.
 
 Identify the form of transire. Explain why you placed it in the clause you chose.
-> transire is in the present active infinitive. It is in the first clause because it is a complimentary infinitive and paired with possum.❌
+> transire is in the present active infinitive. It is in the first clause because it is a complimentary infinitive and paired with possum.
 
 sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle 
 (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
@@ -60,7 +60,7 @@ Identify the form of moriens.
 > It is the present participle of morior. It is singular, present, active, masculine, nominative
 
 Identify felle. Why does Hyginus use this case?
-> felle is neuter ablative❌ singular. It is ablative because it is the instrument being used. 
+> felle is neuter ablative singular. It is ablative because it is the instrument being used. 
 
 Identify the form of tinctas.
 > feminine plural accusative perfect passive 
