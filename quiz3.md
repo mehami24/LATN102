@@ -53,7 +53,7 @@ Leonem Nemeum - Nemea, Nemeorum
 Hydram Lernaeam - Lernaeus, Lernaea, Lernaeum 
 aprum Erymanthium - Erymanthius, Erymanthia, Erymanthium
 aves Stymphalides - Stymphalis, Stymphalidis 
-Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.) - Hippolyte, Hippolytes 
+Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.) - Amazonum, Amazona 
 
 Comparative and superlative forms
 Translate the highlighted phrases in the following English sentences into Latin. Use these vocabulary items:
