@@ -1,8 +1,5 @@
-**Needs minor revisions**
-**Very nice draft!**  
-**We need to review the difference between *is/ea/id*,**
-**which always refers to *someone other than* the subject of**
-**the sentence, and the reflexive pronoun.**
+**Full credit**
+
 
 Instructions
 Using the story above as inspiration, compose a paragraph of Latin according to the instructions below. (DO NOT DIRECTLY TRANSLATE THE PARAGRAPH ABOVE.)
@@ -16,6 +13,7 @@ Your fifth statement should say that when he had killed all of them, he sent Iol
 
 1. Cum Hercules ad Oechaliam venisset, is rogavit Iolen uxorem ducere.
 2. Cum euis pater negaverat🤔, Hercules Oechaliam capit.
-3. Hercules pollicitus est se ❌ euis parentes interfecturum esse❌.
-4. Iole patiebatur❌ suos❌ parentes interfectos❌ esse et suam❌ urbem capitam esse❌.
-5. Cum❌ Hercules interfecisset omnes❌, Iolen ad Deianiram, ❌ suam uxorem, misit. 
+3. Hercules pollicitus est se  euis parentes interfecturum esse.
+4. Iole patiebatur
+ suos parentes interfectos esse et suam urbem captam esse.
+5. Cum Hercules interfecisset omnes, Iolen ad Deianiram,  suam uxorem, misit. 
