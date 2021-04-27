@@ -1,3 +1,5 @@
+**Needs minor revisions**
+**Excellent first draft.**
 Dictionary skills, 1: noun-adjective pairs
 For each word in the following phrases, list the forms the dictionary entry gives you for the word:
 
@@ -10,7 +12,7 @@ Noun-adjective pairs (in various cases):
 
 uno die - unus, una, unum ; dies, diei, f & m
 totum stercus - totus, tota, totum ; stercus, stercoris, n
-ceruum ferocem - cerium, cerii, n. ; ferox, ferocis, m.
+ceruum ferocem - cerium, cerii, n.❌ ; ferox, ferocis, m.
 tantam vim - tantus, tanta, tantum ; vis, vis, f.
 sagittas suas - sagitta, sagittae, f. ; suus, sua, suum
 cornibus aureis - cornu, cornus, n. ; aureus, aurei, m.
@@ -25,8 +27,8 @@ If a part is missing (e.g., for a deponent verb, there will be no perfect active
  
 transierat - transeo, transire, transivi, transitus
 afflabat - afflo, afflare, afflavi, afflatus
-moriebatur - morior, mori, mortuus
-exinteravit - exinanio, exinanire, exinanivi, exinanitus
+moriebatur - morior, mori, -,  mortuus
+exinteravit - exinanio, exinanire, exinanivi, exinanitus ❌
 effugiebat - effugio, effugere, effugi, effugitus
 adduxit - abduco, abducere, abduxi, abductus
 iaculabantur - iaculor, iaculari, iaculatus
@@ -49,7 +51,7 @@ Eurystheo regi - Eurystheus, Eurysthei, m.
  
 Compose a dictionary form for the proper adjectives in the following phrases:
 
-Leonem Nemeum - Nemea, Nemeorum 
+Leonem Nemeum - Nemea, Nemeorum❌ 
 Hydram Lernaeam - Lernaeus, Lernaea, Lernaeum 
 aprum Erymanthium - Erymanthius, Erymanthia, Erymanthium
 aves Stymphalides - Stymphalis, Stymphalidis 
