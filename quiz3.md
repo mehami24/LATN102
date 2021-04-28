@@ -13,6 +13,7 @@ Noun-adjective pairs (in various cases):
 uno die - unus, una, unum ; dies, diei, f & m
 totum stercus - totus, tota, totum ; stercus, stercoris, n
 ceruum ferocem - cerium, cerii, n.❌ ; ferox, ferocis, m.
+> correction: cerum, ceri, n.
 tantam vim - tantus, tanta, tantum ; vis, vis, f.
 sagittas suas - sagitta, sagittae, f. ; suus, sua, suum
 cornibus aureis - cornu, cornus, n. ; aureus, aurei, m.
@@ -29,6 +30,7 @@ transierat - transeo, transire, transivi, transitus
 afflabat - afflo, afflare, afflavi, afflatus
 moriebatur - morior, mori, -,  mortuus
 exinteravit - exinanio, exinanire, exinanivi, exinanitus ❌
+> correction: exintero, exinteras, exinteravi, exinteratum
 effugiebat - effugio, effugere, effugi, effugitus
 adduxit - abduco, abducere, abduxi, abductus
 iaculabantur - iaculor, iaculari, iaculatus
@@ -52,6 +54,7 @@ Eurystheo regi - Eurystheus, Eurysthei, m.
 Compose a dictionary form for the proper adjectives in the following phrases:
 
 Leonem Nemeum - Nemea, Nemeorum❌ 
+> correction: Nemea, Nemeae
 Hydram Lernaeam - Lernaeus, Lernaea, Lernaeum 
 aprum Erymanthium - Erymanthius, Erymanthia, Erymanthium
 aves Stymphalides - Stymphalis, Stymphalidis 
