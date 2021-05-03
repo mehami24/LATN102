@@ -1,5 +1,8 @@
 **Needs minor revisions**
 **Excellent first draft.**
+
+*corrected on 5/3*
+
 Dictionary skills, 1: noun-adjective pairs
 For each word in the following phrases, list the forms the dictionary entry gives you for the word:
 
@@ -12,8 +15,7 @@ Noun-adjective pairs (in various cases):
 
 uno die - unus, una, unum ; dies, diei, f & m
 totum stercus - totus, tota, totum ; stercus, stercoris, n
-ceruum ferocem - cerium, cerii, n.❌ ; ferox, ferocis, m.
-> correction: cerum, ceri, n.
+ceruum ferocem - cervus, cervi, m. ; ferox, ferocis, m.
 tantam vim - tantus, tanta, tantum ; vis, vis, f.
 sagittas suas - sagitta, sagittae, f. ; suus, sua, suum
 cornibus aureis - cornu, cornus, n. ; aureus, aurei, m.
@@ -29,11 +31,10 @@ If a part is missing (e.g., for a deponent verb, there will be no perfect active
 transierat - transeo, transire, transivi, transitus
 afflabat - afflo, afflare, afflavi, afflatus
 moriebatur - morior, mori, -,  mortuus
-exinteravit - exinanio, exinanire, exinanivi, exinanitus ❌
-> correction: exintero, exinteras, exinteravi, exinteratum
+exinteravit - exintero, exinterare, exinteravi, exinteratus
 effugiebat - effugio, effugere, effugi, effugitus
 adduxit - abduco, abducere, abduxi, abductus
-iaculabantur - iaculor, iaculari, iaculatus
+iaculabantur - iaculor, iaculari, -, iaculatus
 vescebantur - vescor, vesci, -
 detraxit - detraho, detrahere, detraxi, detractus
 solitus erat - soleo, solere, solitus
@@ -53,12 +54,11 @@ Eurystheo regi - Eurystheus, Eurysthei, m.
  
 Compose a dictionary form for the proper adjectives in the following phrases:
 
-Leonem Nemeum - Nemea, Nemeorum❌ 
-> correction: Nemea, Nemeae
+Leonem Nemeum - Nemeus, Nemea, Nemeum
 Hydram Lernaeam - Lernaeus, Lernaea, Lernaeum 
 aprum Erymanthium - Erymanthius, Erymanthia, Erymanthium
 aves Stymphalides - Stymphalis, Stymphalidis 
-Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.) - Amazonum, Amazona 
+Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.) - Amazonus, Amazona, Amazonum
 
 Comparative and superlative forms
 Translate the highlighted phrases in the following English sentences into Latin. Use these vocabulary items:
