@@ -1,25 +1,18 @@
 A. Grammatical Analysis:
 7:
-bobile *purgavit* 
-> Augeae regis 
-> stercus  
-> uno die 
-maiorem partem
-> Iove *adiutore*
+Augeae regis stercus bobile uno die *purgavit* 
+maiorem partem 
+> *Iove adiutore*
+> *flumine admisso* 
 totum stercus *abluit*
-> flumine admisso 
 8:
-taurum *adduxit*
+taurum
 > cum quo Pasiphae *concubuit*
-> ex Creta insula 
-> Mycenis 
->> vivum 
+ex Creta insula Mycenis vivum *adduxit*
 9: 
-*interfecit*
-> Diomedem Thraciae regem
-> et equos quattuor eius
->> qui carne humana *vescebantur*
->>> cum Abdero famulo 
+Diomedem Thraciae regem et equos quattuor eius
+> qui carne humana *vescebantur*
+cum Abdero famulo *interfecit*
 equorum autem nomina Podargus Lampon Xanthus Dinus.
   
 Part B. Grammatical questions:
@@ -41,12 +34,11 @@ C. Literary commentary:
 Hyganis emphasizes the important of those being affected, not those doing the actions. For one, this keeps the reader's attention by peaking their interest. One asks, 
 "Well, what happened to this manure, or bull, or the king?" It also creates a kind of suspense that is fitting for the story of Hercules' risky labors. 
 2. Hyganis uses many proper nouns, many names. While much of that can be chalked up to it's necessity in story-telling, why does he need to note the names of 
-the four dead horses? By recognizing the names of all he addresses, he adds a personality and sense of 'realness' to them. It is hard to sympathizre with the nameless, 
-but when all of the characters in his story are named, it for one adds clarification on the people involved, but also adds a humanity to them. Names make it easier
-for people to connect.
+the four dead horses, but bare;y pays attention to the servant? By recognizing the names of the horses, he adds a sense of importance to them. He makes them *matter.* 
+He puts them above the slave, showing how little servants were thought of at the time and dehumanizing them. 
   
 Translation: 
-One day, Hercules cleaned the manure out of King Augeas' stall, the greatest part with Jupiter as his helper, and then washed all the manure into a river.
+One day, Hercules cleaned the manure out of King Augeas' stall, the greatest part with Jupiter as his helper, and then a river was let in that washed all the manure away.
 He led the bull, whom Pasiphae laid with, alive from the island Crete to Mycenae. 
-He killed King Diomedes of Thrace and his four horses, which used to eat human flesh with Aberdus the servant; 
+He killed King Diomedes of Thrace and his four horses, which used to eat human flesh, along with Aberdus the servant; 
 The names of the horses were Podargus, Lampon, Xanthus, and Dinus.
