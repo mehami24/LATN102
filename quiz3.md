@@ -1,5 +1,4 @@
-**Needs minor revisions**
-**Excellent first draft.**
+**Full credit.**
 
 *corrected on 5/3*
 
