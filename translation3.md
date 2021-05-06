@@ -17,17 +17,17 @@ equorum autem nomina Podargus Lampon Xanthus Dinus.
   
 Part B. Grammatical questions:
 1. In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase
-> Ablative, it is a participle. 
+> Ablative; ablative absolute. 
 2. What case is stercus, and why is it in that case?
 > accusative because it is the direct object. 
 3. Identify the form of the adjective maiorem (gender, case, number, degree).
 > feminine, accusative, singular, comparative 
 4. Explain the construction of the verbal unit flumine admisso.
-> it is a participle which takes on the ablative case. It can mean 'into the river' or 'to let into the river.'
+> it is an ablative absolute
 5. What are the gender, number, case, and antecedent of qui?
 > masculine, plural, nominative, antecendent: equos (fully: euis quattor equos)
 6. What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
-> participle
+> 'erant'
   
 C. Literary commentary:
 1. In all three sentences, verbs appear fairly late in the clauses and the direct object is introduced very close to the beginning. By placing the words this way,
@@ -38,7 +38,7 @@ the four dead horses, but bare;y pays attention to the servant? By recognizing t
 He puts them above the slave, showing how little servants were thought of at the time and dehumanizing them. 
   
 Translation: 
-One day, Hercules cleaned the manure out of King Augeas' stall, the greatest part with Jupiter as his helper, and then a river was let in that washed all the manure away.
+In one day, Hercules cleaned the manure out of King Augeas' stall, the greatest part with Jupiter as his helper, and then a river was let in that washed all the manure away.
 He led the bull, whom Pasiphae laid with, alive from the island Crete to Mycenae. 
 He killed King Diomedes of Thrace and his four horses, which used to eat human flesh, along with Aberdus the servant; 
 The names of the horses were Podargus, Lampon, Xanthus, and Dinus.
